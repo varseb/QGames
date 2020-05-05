@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5cd93b73.chunk.css",
+    "main.js": "/static/js/main.87af66f4.chunk.js",
+    "main.js.map": "/static/js/main.87af66f4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.67f6076d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.67f6076d.js.map",
+    "static/js/2.51c6a7ad.chunk.js": "/static/js/2.51c6a7ad.chunk.js",
+    "static/js/2.51c6a7ad.chunk.js.map": "/static/js/2.51c6a7ad.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.735dbff45e7596905c3847887591f0c1.js": "/precache-manifest.735dbff45e7596905c3847887591f0c1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5cd93b73.chunk.css.map": "/static/css/main.5cd93b73.chunk.css.map",
+    "static/media/app.scss": "/static/media/Oswald-Regular.e1996192.ttf",
+    "static/media/countdown.mp3": "/static/media/countdown.60b83e8d.mp3",
+    "static/media/fail.mp3": "/static/media/fail.5f50be94.mp3",
+    "static/media/timeout.mp3": "/static/media/timeout.1e009f81.mp3",
+    "static/media/won3.mp3": "/static/media/won3.2bf45ec9.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67f6076d.js",
+    "static/js/2.51c6a7ad.chunk.js",
+    "static/css/main.5cd93b73.chunk.css",
+    "static/js/main.87af66f4.chunk.js"
+  ]
+}
