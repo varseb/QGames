@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3bd90610279bbc8e505a55dac3b052d",
+    "revision": "cee7dcbbcc2a4ae67afda338d15d20d5",
     "url": "/QGames/index.html"
   },
   {
-    "revision": "5c02679511e3bd5b6d5e",
-    "url": "/QGames/static/css/main.bf57b9c3.chunk.css"
+    "revision": "363757d28c7b4bd1ad85",
+    "url": "/QGames/static/css/main.efb33adb.chunk.css"
   },
   {
-    "revision": "ea317b2d549ff3f1cc64",
-    "url": "/QGames/static/js/2.51c6a7ad.chunk.js"
+    "revision": "d9516b1194f9c89b047a",
+    "url": "/QGames/static/js/2.bccf2c3a.chunk.js"
   },
   {
-    "revision": "5c02679511e3bd5b6d5e",
-    "url": "/QGames/static/js/main.531a661e.chunk.js"
+    "revision": "363757d28c7b4bd1ad85",
+    "url": "/QGames/static/js/main.fc0c194e.chunk.js"
   },
   {
     "revision": "0115f18a41c9f4e944f1",

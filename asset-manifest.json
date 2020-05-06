@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/QGames/static/css/main.bf57b9c3.chunk.css",
-    "main.js": "/QGames/static/js/main.531a661e.chunk.js",
-    "main.js.map": "/QGames/static/js/main.531a661e.chunk.js.map",
+    "main.css": "/QGames/static/css/main.efb33adb.chunk.css",
+    "main.js": "/QGames/static/js/main.fc0c194e.chunk.js",
+    "main.js.map": "/QGames/static/js/main.fc0c194e.chunk.js.map",
     "runtime-main.js": "/QGames/static/js/runtime-main.f37ae4a6.js",
     "runtime-main.js.map": "/QGames/static/js/runtime-main.f37ae4a6.js.map",
-    "static/js/2.51c6a7ad.chunk.js": "/QGames/static/js/2.51c6a7ad.chunk.js",
-    "static/js/2.51c6a7ad.chunk.js.map": "/QGames/static/js/2.51c6a7ad.chunk.js.map",
+    "static/js/2.bccf2c3a.chunk.js": "/QGames/static/js/2.bccf2c3a.chunk.js",
+    "static/js/2.bccf2c3a.chunk.js.map": "/QGames/static/js/2.bccf2c3a.chunk.js.map",
     "index.html": "/QGames/index.html",
-    "precache-manifest.017b9c8b3c11cee0a4e33aa610a831ba.js": "/QGames/precache-manifest.017b9c8b3c11cee0a4e33aa610a831ba.js",
+    "precache-manifest.2606f4b15711c23648e58011b70c7551.js": "/QGames/precache-manifest.2606f4b15711c23648e58011b70c7551.js",
     "service-worker.js": "/QGames/service-worker.js",
-    "static/css/main.bf57b9c3.chunk.css.map": "/QGames/static/css/main.bf57b9c3.chunk.css.map",
+    "static/css/main.efb33adb.chunk.css.map": "/QGames/static/css/main.efb33adb.chunk.css.map",
     "static/media/app.scss": "/QGames/static/media/Oswald-Regular.e1996192.ttf",
     "static/media/countdown.mp3": "/QGames/static/media/countdown.60b83e8d.mp3",
     "static/media/fail.mp3": "/QGames/static/media/fail.5f50be94.mp3",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f37ae4a6.js",
-    "static/js/2.51c6a7ad.chunk.js",
-    "static/css/main.bf57b9c3.chunk.css",
-    "static/js/main.531a661e.chunk.js"
+    "static/js/2.bccf2c3a.chunk.js",
+    "static/css/main.efb33adb.chunk.css",
+    "static/js/main.fc0c194e.chunk.js"
   ]
 }
