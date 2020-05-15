@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QGames/static/css/main.0a3dc881.chunk.css",
-    "main.js": "/QGames/static/js/main.55ede38e.chunk.js",
-    "main.js.map": "/QGames/static/js/main.55ede38e.chunk.js.map",
+    "main.js": "/QGames/static/js/main.644e7cf9.chunk.js",
+    "main.js.map": "/QGames/static/js/main.644e7cf9.chunk.js.map",
     "runtime-main.js": "/QGames/static/js/runtime-main.f37ae4a6.js",
     "runtime-main.js.map": "/QGames/static/js/runtime-main.f37ae4a6.js.map",
     "static/js/2.be4b0c07.chunk.js": "/QGames/static/js/2.be4b0c07.chunk.js",
     "static/js/2.be4b0c07.chunk.js.map": "/QGames/static/js/2.be4b0c07.chunk.js.map",
     "index.html": "/QGames/index.html",
-    "precache-manifest.88b97e641d9a233214a6d3611519c7f7.js": "/QGames/precache-manifest.88b97e641d9a233214a6d3611519c7f7.js",
+    "precache-manifest.38c32879718e1e4c37e4420ad738c684.js": "/QGames/precache-manifest.38c32879718e1e4c37e4420ad738c684.js",
     "service-worker.js": "/QGames/service-worker.js",
     "static/css/main.0a3dc881.chunk.css.map": "/QGames/static/css/main.0a3dc881.chunk.css.map",
     "static/media/app.scss": "/QGames/static/media/Oswald-Regular.e1996192.ttf",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.f37ae4a6.js",
     "static/js/2.be4b0c07.chunk.js",
     "static/css/main.0a3dc881.chunk.css",
-    "static/js/main.55ede38e.chunk.js"
+    "static/js/main.644e7cf9.chunk.js"
   ]
 }
