@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/QGames/static/css/main.1563c685.chunk.css",
-    "main.js": "/QGames/static/js/main.e36488a0.chunk.js",
-    "main.js.map": "/QGames/static/js/main.e36488a0.chunk.js.map",
+    "main.css": "/QGames/static/css/main.0a3dc881.chunk.css",
+    "main.js": "/QGames/static/js/main.55ede38e.chunk.js",
+    "main.js.map": "/QGames/static/js/main.55ede38e.chunk.js.map",
     "runtime-main.js": "/QGames/static/js/runtime-main.f37ae4a6.js",
     "runtime-main.js.map": "/QGames/static/js/runtime-main.f37ae4a6.js.map",
-    "static/js/2.bccf2c3a.chunk.js": "/QGames/static/js/2.bccf2c3a.chunk.js",
-    "static/js/2.bccf2c3a.chunk.js.map": "/QGames/static/js/2.bccf2c3a.chunk.js.map",
+    "static/js/2.be4b0c07.chunk.js": "/QGames/static/js/2.be4b0c07.chunk.js",
+    "static/js/2.be4b0c07.chunk.js.map": "/QGames/static/js/2.be4b0c07.chunk.js.map",
     "index.html": "/QGames/index.html",
-    "precache-manifest.0c9c0772a665fb69d929b6721d472642.js": "/QGames/precache-manifest.0c9c0772a665fb69d929b6721d472642.js",
+    "precache-manifest.88b97e641d9a233214a6d3611519c7f7.js": "/QGames/precache-manifest.88b97e641d9a233214a6d3611519c7f7.js",
     "service-worker.js": "/QGames/service-worker.js",
-    "static/css/main.1563c685.chunk.css.map": "/QGames/static/css/main.1563c685.chunk.css.map",
+    "static/css/main.0a3dc881.chunk.css.map": "/QGames/static/css/main.0a3dc881.chunk.css.map",
     "static/media/app.scss": "/QGames/static/media/Oswald-Regular.e1996192.ttf",
     "static/media/countdown.mp3": "/QGames/static/media/countdown.60b83e8d.mp3",
+    "static/media/drum.mp3": "/QGames/static/media/drum.acdd42ad.mp3",
     "static/media/fail.mp3": "/QGames/static/media/fail.5f50be94.mp3",
+    "static/media/gong.mp3": "/QGames/static/media/gong.a9be057d.mp3",
     "static/media/timeout.mp3": "/QGames/static/media/timeout.1e009f81.mp3",
     "static/media/won3.mp3": "/QGames/static/media/won3.2bf45ec9.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.f37ae4a6.js",
-    "static/js/2.bccf2c3a.chunk.js",
-    "static/css/main.1563c685.chunk.css",
-    "static/js/main.e36488a0.chunk.js"
+    "static/js/2.be4b0c07.chunk.js",
+    "static/css/main.0a3dc881.chunk.css",
+    "static/js/main.55ede38e.chunk.js"
   ]
 }
